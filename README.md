@@ -3,7 +3,7 @@
 *This database was made in SQL and created for a uni project.*
 
 ### The database contains 
-1. a system for reservations in hotels with saving the info for all rooms and their information.
+1. A system for reservations in hotels with saving the info for all rooms and their information.
 2. Information about its past and current clients.
 3. The users can also rate their stay at the hotel.
 4. Creating **COUNT**, **GROUP BY**, **INNER & OUTER JOIN**, **AVG & COUNT** functions.
